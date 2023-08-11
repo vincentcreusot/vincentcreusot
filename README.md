@@ -2,7 +2,13 @@
 
 ## Hi, my name is Vincent Creusot
 
-I am a senior backend developer and architect, currently loving Go :golang: after being a Java addict.
+I am a senior backend developer and architect, currently loving Go :golang: after being a Java addict (still believes in it though).
+🔭 Platform solutions helper, Kubernetes advocate. 
+Firm believer of the event driven / message driven solutions -- for an optical fiber testing company, architected and designed an open scalable service oriented monitoring solution.
+
+🌱 Currently learning Rust and integrations with Kubernetes.
+
+I love travelling with my family and my dog weight more than the average person ;-)
 <!--
 **vincentcreusot/vincentcreusot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
