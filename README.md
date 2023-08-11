@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Hi, my name is Vincent Creusot
+
+I am a senior backend developer and architect, currently loving Go :golang: after being a Java addict.
 <!--
 **vincentcreusot/vincentcreusot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
